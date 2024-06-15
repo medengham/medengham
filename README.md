@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehdi Ait Mouh</h1>
 <h3 align="center">Software engineer from morocco</h3>
 
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%" alt="programmer">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medengham&label=Profile%20views&color=0e75b6&style=flat" alt="medengham" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medengham" alt="medengham" /></a> </p>
